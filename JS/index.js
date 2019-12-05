@@ -1,3 +1,3 @@
-var car = new Car("AW453", new Account("andres Herrera","QWFK23"))
+var car = new Car("AW456", new Account("Andres Herrera", "QWE234"))
 car.passenger = 4;
 car.printDataCar();
